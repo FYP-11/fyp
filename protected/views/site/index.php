@@ -12,7 +12,7 @@ $this->pageTitle=Yii::app()->name;
 			<div class="col-sm-6">
 				<section class="panel">
 					<div class="panel-body thumbnail">
-						<a href="1st.html">
+						<a href="index.php?r=site/firstfloor">
 							<img src="images/1st.png" alt="">
 						</a>
 					</div>
@@ -21,7 +21,7 @@ $this->pageTitle=Yii::app()->name;
 			<div class="col-sm-6">
 				<section class="panel">
 					<div class="panel-body thumbnail">
-						<a href="1st.html">
+						<a href="index.php?r=site/firstfloor">
 							<img src="images/1st.png" alt="">
 						</a>
 					</div>
